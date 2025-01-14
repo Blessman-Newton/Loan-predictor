@@ -30,7 +30,7 @@ This project implements a loan default prediction system using a **Random Forest
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone [<your-repository-url>](https://github.com/Blessman-Newton/Loan-predictor.git)
    cd Loan-predictor
    ```
 
