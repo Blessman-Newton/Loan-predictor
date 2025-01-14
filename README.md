@@ -1,1 +1,1 @@
-# Loan-predictor
+# Credit_Scoring
